@@ -1,0 +1,5 @@
+youtube_transcipt_api --> python API which allows to get subtitles of youtube video if no subtitles automatically generates subtitles
+streamlit --> front end
+google-generativeai 
+python-dotenv --> Read key-value pairs from a .env file and set them as environment variables
+pathlib
